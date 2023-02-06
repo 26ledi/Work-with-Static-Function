@@ -1,0 +1,15 @@
+J:\C#\Csharp_Lab3\bin\Debug\net6.0\Csharp_Lab3.exe
+J:\C#\Csharp_Lab3\bin\Debug\net6.0\Csharp_Lab3.deps.json
+J:\C#\Csharp_Lab3\bin\Debug\net6.0\Csharp_Lab3.runtimeconfig.json
+J:\C#\Csharp_Lab3\bin\Debug\net6.0\Csharp_Lab3.dll
+J:\C#\Csharp_Lab3\bin\Debug\net6.0\Csharp_Lab3.pdb
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.csproj.AssemblyReference.cache
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.AssemblyInfoInputs.cache
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.AssemblyInfo.cs
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.csproj.CoreCompileInputs.cache
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.dll
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\refint\Csharp_Lab3.dll
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.pdb
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\Csharp_Lab3.genruntimeconfig.cache
+J:\C#\Csharp_Lab3\obj\Debug\net6.0\ref\Csharp_Lab3.dll
